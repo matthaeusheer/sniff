@@ -1,4 +1,4 @@
-# ipt-competence-profile
+# sniff - analyzing ipt competence profiles
 ![](assets/sniff.png)
 
 (yes, I stole this graphics from Google)

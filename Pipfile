@@ -4,8 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyterlab = "*"
+pypandoc = "*"
+spacy = "*"
+wordcloud = "*"
+tqdm = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.10.0"

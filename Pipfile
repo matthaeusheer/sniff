@@ -9,6 +9,7 @@ pypandoc = "*"
 spacy = "*"
 wordcloud = "*"
 tqdm = "*"
+seaborn = "*"
 
 [dev-packages]
 
